@@ -14,6 +14,7 @@ We had to create , give username and open it
  --CREATING THE USER
 --first you alter the session
 ![CREATING_USER](https://github.com/HUGUES-124/oracle_pdb_ass_II_28751_Hugues/blob/main/PDB_CREATIONS_screenshots/creating_user.png)
+-- i had used the wrong PDB_name so i had to drop it in order to use the right one 
  # TASK 2
  We had to create and delete a Pluggable Database
  --2.CREATING PLUGGABLE DATABASE TO DELETE
